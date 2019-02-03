@@ -52,7 +52,7 @@ Page.propTypes = {
 export default Page
 
 export const PageQuery = graphql`
-  query AboutPage($id: String!) {
+  query Page($id: String!) {
     markdownRemark(id: { eq: $id }) {
       html
       frontmatter {
