@@ -1,7 +1,8 @@
 import React from 'react'
 import Helmet from 'react-helmet'
-import { StaticQuery, graphql } from "gatsby"
+import { StaticQuery, graphql, Link } from "gatsby"
 
+import logo from '../img/bck.png'
 import Navbar from '../components/Navbar'
 import './all.sass'
 
@@ -36,8 +37,15 @@ const TemplateWrapper = ({ children }) => (
           <meta property="og:url" content="/" />
           <meta property="og:image" content="/img/og-image.jpg" />
         </Helmet>
-        <Navbar />
-        <div>{children}</div>
+        <div class="container" style={{ backgroundColor: '#FFF', height: '100%', padding: '1.5rem' }}>
+          <Link to="/" title="Logo">
+            <img src={logo} alt="Kaldi" style={{ width: '100%'}} />
+          </Link>
+          <section class="main-content columns is-fullheight">
+            <Navbar />
+            {children}
+        </section>
+        </div>
       </div>
     )}
   />

@@ -1,17 +1,26 @@
 ---
 templateKey: about-page
-title: Bienvenue
+title: Qui sommes-nous ?
 ---
-Chères Anciennes, Chers Anciens, 
+### Origines
 
-Chères Amies, Chers Amis,
+L'ASPEBr, créée en 1949, est l'Association des diplômés en sciences sociales, politiques, économiques, informatique et sciences humaines et sciences du travail de l’Université Libre de Bruxelles (ULB).
 
-Soyez les bienvenus sur le site de l'ASPEBr-Alumni FSP, votre association postfacultaire.
+Elle compte prés de 1.200 membres en Belgique et à l'étranger. Un Comité composé d'une dizaine d'administrateurs, tous bénévoles, assure la gestion de l'association et l'organisation de ses activités.
 
-L'ASPEBr est une association sans but lucratif qui regroupe les diplômés aujourd'hui, les personnes diplômées en Sciences Sociales, Politiques, Sciences Humaines et Sciences du Travail, Philosophie, Ethique, Sciences des religions et de la laïcité, Histoire et Histoire de l’Art et Archéologie de l’Université Libre de Bruxelles (ULB).
+### Missions 
 
-Elle compte près de 1.200 membres en Belgique et à l'étranger. Un Comité composé d'une dizaine d'administrateurs, tous bénévoles, assure la gestion de l'association et l'organisation de ses activités.
+Maintenir les liens entre anciens de la faculté. Maintenir les liens avec la faculté et les étudiants de celle-ci. Notre philosophie est d'encourager les anciens à garder un contact entre eux et avec l'université après leurs études. Et de les encourager à pratiquer en toutes circonstances le libre examen.
 
-L'ASPEBr a pour objectif de maintenir les liens entre anciens de la faculté. Et assurer les relations avec la faculté et les étudiants de celle-ci. Notre philosophie est d'encourager les anciens à garder d’une part un contact entre eux, d’autre part  avec l'université après leurs études. Et ce bien entendu constamment dans la pratique du libre examen.
+### Administrateurs
 
-Bonne visite !
+Les membres du Conseil d'administration pour l’exercice 2014-2015 ont été élus.
+
+- Gaëtan Poznantek : Président
+- Maxime Fellahi : Trésorier
+- Olivier Santarossa : Trésorier adjoint
+- Micheline Mardulyn : secrétaire générale
+- Julie Berthelier : représentante auprès du CA de l'UAE
+- Joanne Cheverier : Vice-Présidente, chargée des sciences sociales et du travail
+- Mathieu Midrez : Vice-Président, chargé science politique
+- Fabrice Delooz : Vice-Président, Chargé de l'intégration des nouveaux départements
