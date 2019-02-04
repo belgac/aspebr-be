@@ -10,8 +10,7 @@ export default class IndexPage extends React.Component {
 
     return (
       <Layout>
-        <section className="section">
-          <div className="container">
+        <div className="container column is-10">
             <div className="content">
               <h1 className="has-text-weight-bold is-size-2">Nos dernières infos</h1>
             </div>
@@ -40,7 +39,6 @@ export default class IndexPage extends React.Component {
                 </div>
               ))}
           </div>
-        </section>
       </Layout>
     )
   }
