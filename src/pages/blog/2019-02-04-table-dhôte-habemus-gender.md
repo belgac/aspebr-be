@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: Table d'hôte "Habemus Gender !"
-date: 2019-02-04T16:25:02.337Z
+date: 2013-11-26T16:25:02.337Z
 description: >-
   La France réactionnaire et l'idéologie du genre: Table d'hôte avec Valérie
   Piette (professeur à l'ULB) et David Paternotte (professeur assistant à l'ULB)
