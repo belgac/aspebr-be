@@ -11,14 +11,14 @@ class TagRoute extends React.Component {
         <Link to={post.node.fields.slug}>
           <h2 className="is-size-2">{post.node.frontmatter.title}</h2>
         </Link>
+        <p><small>{post.node.frontmatter.date}</small></p>
+        <p>{post.node.frontmatter.description}</p>
       </li>
     ))
     const tag = this.props.pageContext.tag
     const title = this.props.data.site.siteMetadata.title
     const totalCount = this.props.data.allMarkdownRemark.totalCount
-    const tagHeader = `${totalCount} post${
-      totalCount === 1 ? '' : 's'
-    } tagged with “${tag}”`
+    const tagHeader = `${totalCount} news avec le mot clé “${tag}”`
 
     return (
       <Layout>
@@ -66,6 +66,8 @@ export const tagPageQuery = graphql`
           }
           frontmatter {
             title
+            date(formatString: "DD-MM-YYYY")
+            description
           }
         }
       }
