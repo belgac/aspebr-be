@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: 45ème édition du Bal Jaune
-date: 2019-02-04T17:40:13.783Z
+date: 2014-02-13T17:40:13.783Z
 description: >-
   Le Cercle des étudiants en Sciences Politiques et Sociales, avec la
   participation de la Faculté de Sciences Sociales et Politique ainsi que
