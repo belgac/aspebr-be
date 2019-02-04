@@ -19,6 +19,7 @@ const TemplateWrapper = ({ children }) => (
           blogs: allMarkdownRemark(
             sort: { order: DESC, fields: [frontmatter___date] },
             filter: { frontmatter: { templateKey: { eq: "blog-post" } }}
+            limit: 3
           ) {
             edges {
               node {
