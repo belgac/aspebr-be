@@ -16,14 +16,32 @@ const TemplateWrapper = ({ children }) => (
               description,
             }
           }
+          blogs: allMarkdownRemark(
+            sort: { order: DESC, fields: [frontmatter___date] },
+            filter: { frontmatter: { templateKey: { eq: "blog-post" } }}
+          ) {
+            edges {
+              node {
+                id
+                fields {
+                  slug
+                }
+                frontmatter {
+                  title
+                  templateKey
+                  date(formatString: "MMMM DD, YYYY")
+                }
+              }
+            }
+          }
         }
     `}
-    render={data => (
+    render={({ site, blogs }) => (
       <div>
         <Helmet>
           <html lang="en" />
-          <title>{data.site.siteMetadata.title}</title>
-          <meta name="description" content={data.site.siteMetadata.description} />
+          <title>{site.siteMetadata.title}</title>
+          <meta name="description" content={site.siteMetadata.description} />
           
           <link rel="apple-touch-icon" sizes="180x180" href="/img/apple-touch-icon.png" />
 	        <link rel="icon" type="image/png" href="/img/favicon-32x32.png" sizes="32x32" />
@@ -33,7 +51,7 @@ const TemplateWrapper = ({ children }) => (
 	        <meta name="theme-color" content="#fff" />
 
 	        <meta property="og:type" content="business.business" />
-          <meta property="og:title" content={data.site.siteMetadata.title} />
+          <meta property="og:title" content={site.siteMetadata.title} />
           <meta property="og:url" content="/" />
           <meta property="og:image" content="/img/og-image.jpg" />
         </Helmet>
@@ -42,7 +60,7 @@ const TemplateWrapper = ({ children }) => (
             <img src={logo} alt="Kaldi" style={{ width: '100%'}} />
           </Link>
           <section class="main-content columns is-fullheight">
-            <Navbar />
+            <Navbar blogs={blogs} />
             {children}
         </section>
         </div>

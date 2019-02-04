@@ -3,6 +3,7 @@ import { Link } from 'gatsby'
 
 const Navbar = class extends React.Component {
  render() {
+   console.log(this.props.blogs)
    return (
     <aside class="column is-2 is-narrow-mobile is-fullheight section is-hidden-mobile">
       <ul class="menu-list">
@@ -36,6 +37,18 @@ const Navbar = class extends React.Component {
             Contact
           </Link>
         </li>
+      </ul>
+      <p class="menu-label">
+        News
+      </p>
+      <ul class="menu-list">
+        {this.props.blogs.edges.map(({ node: post }) => (
+          <li>
+            <Link to={post.fields.slug}>
+              {post.frontmatter.title}
+            </Link>
+          </li>
+        ))}
       </ul>
     </aside>
   )}
