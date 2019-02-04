@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: Élection du Conseil d''administration 2014-2015
+title: Élection du Conseil d'administration 2014-2015
 date: 2013-06-14T15:19:52.992Z
 description: >-
   Décharge du Conseil d'administration 2013-2014 et élection du conseil
