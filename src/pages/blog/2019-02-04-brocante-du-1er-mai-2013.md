@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: Brocante du 1er mai 2013
-date: 2019-02-04T15:19:25.784Z
+date: 2013-02-23T15:19:25.784Z
 description: >-
   La Brocante du Mercredi 1er mai 2013 aura lieu de 8h30 à 16h30 sur le
   boulevard de la Plaine
