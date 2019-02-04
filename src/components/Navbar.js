@@ -28,7 +28,7 @@ const Navbar = class extends React.Component {
           </Link>
         </li>
         <li>
-          <a href="http://aspebr.wufoo.com/forms/devenir-membre-de-lalumni-fsp-aspebr-ulb/">
+          <a href="http://aspebr.wufoo.com/forms/devenir-membre-de-lalumni-fsp-aspebr-ulb/" target="_blank">
             Devenir membre
           </a>
         </li>
@@ -49,6 +49,11 @@ const Navbar = class extends React.Component {
             </Link>
           </li>
         ))}
+          <li>
+            <Link to="/info">
+              plus de news  →
+            </Link>
+          </li>
       </ul>
     </aside>
   )}
