@@ -20,9 +20,9 @@ Les attestations et les détails pratiques seront communiqués via e-mail pour l
 
 Les organisateurs ont adressé un courrier postal aux brocanteurs présents lors des précédentes éditions de la brocante
 
-[Lettre aux brocanteurs](img/lettre_brocante_aspebr_2014.pdf)
+[Lettre aux brocanteurs](/img/lettre_brocante_aspebr_2014.pdf)
 
-[Fiche explicative](img/fiche_explicative_brocante_aspebr_2014.pdf)
+[Fiche explicative](/img/fiche_explicative_brocante_aspebr_2014.pdf)
 
 ## Inscriptions
 
