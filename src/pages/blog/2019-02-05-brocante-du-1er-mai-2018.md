@@ -14,11 +14,13 @@ Le mardi 1er mai 2018, de 8h30 à 16h00, sur le boulevard de la Plaine à 1050 I
 
 La participation à la Brocante implique l'adhésion sans réserve à son [règlement](/img/Reglement_brocante_ASPEBr.pdf).
 
-Les organisateurs ont adressé un e-mail aux brocanteurs présents lors des précédentes éditions de la brocante.
+Les organisateurs ont adressé un[ e-mail aux brocanteurs ](/img/Lettre_brocante_2018_particuliers.pdf)présents lors des précédentes éditions de la brocante.
 
 **Inscriptions**
 
 Retrouvez la procédure et les modalités d''inscription dans le document ci-dessous.
+
+[Fiche explicative](/img/Brocante_du_1er_mai_2017_Fiche_explicative.pdf)
 
 Lien vers le formulaire d''inscription en ligne (veuillez consulter la fiche explicative préalablement à l''introduction de votre inscription, svp): 
 
