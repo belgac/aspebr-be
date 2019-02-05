@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: Brainstorming
-date: 2019-02-05T15:52:36.579Z
+date: 2018-04-17T14:52:36.579Z
 description: >-
   Il y a quelques semaines nous organisions un premier brainstorming concernant
   à la fois le futur de l’association, son positionnement et les activités que
