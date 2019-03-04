@@ -1,5 +1,5 @@
 ---
 templateKey: about-page
-title: Info ASPEBr
+title: 'Newsletter '
 ---
 [S'inscrire à la mailing list](http://eepurl.com/dlw1mb)
