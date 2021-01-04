@@ -23,3 +23,9 @@ A la rencontre d'un livre et de son auteur autour d'un bon repas.
 ### Brocante du 1er mai
 
 La Brocante du 1er mai est une des plus grande brocante de Belgique. Elle associe plaisir de fraterniser, de vendre et d'acheter. De nombreux anciens de l'ULB y participent en tant qu'exposants ou visiteurs. Les étudiants y ont développé une "zone de rencontre".
+
+### Conférences et sorties culturelles
+
+L'ASPEBr organise également des conférences sur des thèmes d'actualité et liés aux matières enseignées par notre faculté. Grace au soutient de cette dernière et son corp académique et scientifique, nous avons l'opportunité d'avoir parmi les intervenants d'éminemment professeurs de la faculté mais également d'invités parmi nos alumni. 
+
+La culture est importante, c'est pour cela que l'ASPEBr a pour ambition d'également proposer à ses membres des sorties culturelles diverses et variées.
