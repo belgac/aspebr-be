@@ -10,4 +10,4 @@ Bd. du Triomphe
 
 1050 Bruxelles
 
-e-Mail:  info@aspebr.be
+e-Mail:  aspebr@gmail.com
